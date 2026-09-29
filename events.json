@@ -1,0 +1,26 @@
+[
+  {
+    "type": "starred",
+    "repository": "octocat/Spoon-Knife",
+    "url": "https://github.com/octocat/Spoon-Knife",
+    "description": "A sample repository for learning how to use GitHub.",
+    "language": "HTML",
+    "starred_at": "2026-09-18T14:30:00Z"
+  },
+  {
+    "type": "starred",
+    "repository": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "description": "Linux kernel source tree.",
+    "language": "C",
+    "starred_at": "2026-08-07T09:15:00Z"
+  },
+  {
+    "type": "starred",
+    "repository": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "description": "TypeScript is a strongly typed programming language that builds on JavaScript.",
+    "language": "TypeScript",
+    "starred_at": "2026-07-22T17:45:00Z"
+  }
+]
